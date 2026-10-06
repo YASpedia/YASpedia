@@ -1,5 +1,5 @@
 ```text
-                                                                      yatin@dell-g15
+                                                                      yatin is feeling gitty
                                                                       ------------------------------------------------
                                                                       OS: ........MacOS/ Ubuntu 24.04 LTS / Windows 11
                                ..:. .                                 Uptime: ... B.Tech CSE (RGIPT)
